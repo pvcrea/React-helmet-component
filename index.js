@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import { HelmetComponent } from './HelmetComponent';
+import { HelmetComponent } from './helmet';
 
 class Page extends Component {
 
