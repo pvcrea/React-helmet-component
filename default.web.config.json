@@ -1,0 +1,11 @@
+{
+  "website_baseurl": "http://site.nl",
+  "website_title": "website title",
+  "website_description": "website description",
+  "website_theme_color": "#000000",
+
+  "facebook_application_id": "facebook id",
+  "twitter_page": "twitter page",
+  "social_image_width": "400",
+  "social_image_height": "400",
+}
